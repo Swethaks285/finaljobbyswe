@@ -1,0 +1,35 @@
+.log-out-btn {
+  background-color: #4f46e5;
+  padding: 10px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 400;
+  width: 80px;
+  height: 45px;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+}
+.inside{
+  display: flex;
+  flex-direction: row;
+}
+
+.head-space {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  background-color:  #272727;
+}
+
+.home {
+  color: #ffffff;
+  font-weight: bold;
+  margin-right: 65px;
+}
+.job {
+  color: #ffffff;
+  font-weight: bold;
+  margin-right: 15px;
+}
